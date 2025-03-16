@@ -1,0 +1,82 @@
+﻿<UserControl x:Class="PersonnelManager.View.Partial.WorkerCardWindow.WorkerCardFillData"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PersonnelManager.View.Partial.WorkerCardWindow"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../../../Styles/WorkerCardStyle.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Фамилия"/>
+            <TextBox Style="{StaticResource StyleUserCardTextBox}" Text="{Binding LastName}" x:Name="TBLastName"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Имя"/>
+            <TextBox Style="{StaticResource StyleUserCardTextBox}" Text="{Binding FirstName}" x:Name="TBFirstName"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Отчество"/>
+            <TextBox Style="{StaticResource StyleUserCardTextBox}" Text="{Binding MiddleName}" x:Name="TBMiddleName"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Рабочий телефон"/>
+            <TextBox Style="{StaticResource StyleUserCardTextBox}" Text="{Binding WorkPhoneNumber}" x:Name="TBWorkPhoneNumber"
+                 TextChanged="TBWorkPhoneNumber_TextChanged"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Личный телефон"/>
+            <TextBox Style="{StaticResource StyleUserCardTextBox}" Text="{Binding PersonalPhoneNumber}" x:Name="TBPersonalPhoneNumber"
+                 TextChanged="TBPersonalPhoneNumber_TextChanged"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Дата рождения"/>
+            <DatePicker Height="30" Width="200" Text="{Binding BirthDateString}" x:Name="DPBirthDate"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Структурное подразделение"/>
+            <ComboBox x:Name="ComboBoxDepartments" Style="{StaticResource StyleUserCardComboBox}"/>
+
+        </StackPanel>
+
+
+
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1">
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Должность"/>
+            <ComboBox x:Name="ComboBoxPosts" Style="{StaticResource StyleUserCardComboBox}"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Руководитель"/>
+            <ComboBox x:Name="ComboBoxLeaders" Style="{StaticResource StyleUserCardComboBox}"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Помощник"/>
+            <ComboBox x:Name="ComboBoxHelpers" Style="{StaticResource StyleUserCardComboBox}"/>
+
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Кабинет"/>
+            <TextBox Style="{StaticResource StyleUserCardTextBox}" Text="{Binding Cabinet}" x:Name="TBCabinet"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Корпоративный Email"/>
+            <TextBox Style="{StaticResource StyleUserCardTextBox}" Text="{Binding CorporateEmail}" x:Name="TBEmail"/>
+
+            <TextBlock Style="{StaticResource StyleUserCardTextBlock}" Text="Прочая информация"/>
+            <TextBox Width="200" Height="100" Text="{Binding ExtraInfo}" x:Name="TBExtraInfo"/>
+
+
+            <Button x:Name="EditData" Height="30" Content="Редактировать данные" Margin="0,20" Click="EditData_Click"/>
+            <Button x:Name="ButtonSaveChanges" Height="30" Content="Сохранить изменения" Click="ButtonSaveChanges_Click"/>
+            <Button x:Name="ButtonFireWorker" Height="30" Content="Уволить сотрудника" Margin="0,20" Click="ButtonFireWorker_Click"/>
+            <Button x:Name="ButtonCreateCheckList" Height="30" Content="Создать Чек-лист" Click="ButtonCreateCheckList_Click"/>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

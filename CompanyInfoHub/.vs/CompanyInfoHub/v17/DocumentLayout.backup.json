@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\views\\home\\parsedataasvcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:views\\home\\parsedataasvcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\controllers\\api\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:controllers\\api\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\controllers\\api\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:controllers\\api\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\models\\viewmodels\\workercardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:models\\viewmodels\\workercardmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\controllers\\api\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:controllers\\api\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\models\\api\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:models\\api\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\controllers\\api\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:controllers\\api\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\views\\shared\\headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:views\\shared\\headerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\controllers\\api\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:controllers\\api\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companyinfohub\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F6782EDD-81A4-45C7-92E1-51F201184A5B}|CompanyInfoHub.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\EventsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\EventsController.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\EventsController.cs",
+              "RelativeToolTip": "Controllers\\API\\EventsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:45:28.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\NewsController.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\API\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:40:48.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HeaderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Views\\Shared\\HeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\HeaderPartial.cshtml",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Views\\Shared\\HeaderPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\HeaderPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T09:37:39.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\API\\DepartmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:39:03.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Models\\API\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\API\\Event.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Models\\API\\Event.cs",
+              "RelativeToolTip": "Models\\API\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:38:06.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\WorkersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\WorkersController.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\WorkersController.cs",
+              "RelativeToolTip": "Controllers\\API\\WorkersController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA1wCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:05:50.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\API\\PostsController.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\API\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\API\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:14:31.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwB0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T10:03:33.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParseDataAsVCard.cshtml",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Views\\Home\\ParseDataAsVCard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ParseDataAsVCard.cshtml",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Views\\Home\\ParseDataAsVCard.cshtml",
+              "RelativeToolTip": "Views\\Home\\ParseDataAsVCard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T09:57:27.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwEgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T09:46:16.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkerCardModel.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Models\\ViewModels\\WorkerCardModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\WorkerCardModel.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Models\\ViewModels\\WorkerCardModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\WorkerCardModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T09:38:26.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-12T09:38:00.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyInfoHub\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-12T09:34:41.114Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

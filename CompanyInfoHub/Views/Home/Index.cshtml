@@ -1,0 +1,101 @@
+﻿@model CompanyInfoHub.Models.ViewModels.IndexViewModel
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1 class="title">Сотрудники</h1>
+
+<div class="workers-list scroll-x">
+
+    @foreach (var item in @Model.workers)
+    {
+        <div class="worker-card card"> <!--card-->
+            <p class="worker-fullname">@item.LastName @item.FirstName @item.MiddleName</p>
+            <p>@item.Post.Name</p>
+            <p class="worker-email">@item.CorporateEmail</p>
+            <p class="worker-work-phone">@item.WorkPhoneNumber</p>
+            <div class="bottom-line">
+                <p>@item.BirthDate.ToString("dd.MM")</p>
+                @*@using (Html.BeginForm("ParseDataAsVCard", "Home", FormMethod.Post, new { id = @item.Id}))
+            {
+            <button type="submit">
+            <img id="button_id_@item.Id" class="button-save" src="img/Diskette.png" />
+            </button>
+
+            }*@
+
+                @*<a asp-action="ParseDataAsVCard">*@
+                    <a asp-action="ParseDataAsVCard" asp-controller="Home" asp-route-id="@item.Id">
+                    <img id="button_id_@item.Id" class="button-save" src="~/img/Diskette.png" />
+                </a>
+            </div>
+        </div>
+    }
+</div>
+
+<div class="body-container">
+    <div class="left-side">
+
+        <h1 class="title">Календарь событий</h1>
+        <div class="event-calendar">
+            <calendar></calendar>
+        </div>
+
+        <h1 class="title">События</h1>
+        <div class="events-list scroll-y">
+            @foreach (var item in @Model.eventCalendars)
+            {
+                <div class="event-card card">
+                    <p class="worker-fullname">@item.Name</p>
+                    <p>@item.Description</p>
+
+                    <div class="bottom-line">
+                        <p>@item.StartDateTime.Value.ToString("dd.MM.yyyy")</p>
+
+                        @if (@item.ResponsibleWokrerId != null)
+                        {
+                            <p>@item.ResponsibleWokrer.FullName</p>
+                        }
+                        @if (@item.ResponsibleDepartmentId != null)
+                        {
+                            <p>@item.ResponsibleDepartment.Name</p>
+                        }
+                    </div>
+                </div>
+            }
+        </div>
+
+    </div>
+
+
+    <div class="right-size">
+        <h1 class="title">Новости</h1>
+        <div class="news-list scroll-y">
+
+
+
+            @foreach (var item in Model.news)
+            {
+                <div class="news-card card">
+                    @*<img class="news-image"/>*@
+                    <img class="news-image" src="~/img/News_Photo_Placeholder.png"/>
+                    <div class="news-card-content">
+                        <p>@item.Title</p>
+                        <p>@item.Description</p>
+                        <p>@item.CreationDate.ToString("dd.MM.yyyy")</p>
+                    </div>
+                    @* @if (@item.ImagePath == null || !File.Exists(@item.ImagePath))
+                {
+                <style>.news-image{ background-color:gray; }</style>
+                }
+                @if (@item.ImagePath != null && File.Exists(@item.ImagePath))
+                {
+                <style>.news-image{ background-image: url(@item.ImagePath); }</style>
+                }*@
+                </div>
+            }
+        </div>
+    </div>
+</div>
+

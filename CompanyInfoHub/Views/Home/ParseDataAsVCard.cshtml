@@ -1,0 +1,16 @@
+﻿@model CompanyInfoHub.Models.ViewModels.VCardViewModel;
+
+
+
+<h1 class="worker-fullname">@Model.Worker.FullName</h1>
+
+<div class="vCard-container">
+    <div class="vCard-container-right">
+        <h1>QR код:</h1>
+        <img class="qr-code" src="~/img/qrcode.png" />
+    </div>
+    <div class="vCard-container-left">
+        <h3>Строка в формате vCard</h3>
+        <p class="vCard-format">@Model.FormatString</p>
+    </div>
+</div>

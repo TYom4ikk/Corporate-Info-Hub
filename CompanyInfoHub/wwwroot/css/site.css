@@ -1,0 +1,202 @@
+:root {
+    --cards-text-color: ghostwhite;
+    --cards-bg-color: limegreen;
+    --cards-bg-color-hover: green;
+}
+
+* {
+    font-size: 12px;
+    padding: 0px;
+    margin-bottom: 0;
+    font-family: Arial;
+}
+
+.title {
+    color: black;
+}
+
+.body-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.left-size {
+    width: 30%;
+}
+
+.right-size {
+    margin-left: 30px;
+    width: 70%;
+}
+
+.card {
+    background-color: var(--cards-bg-color);
+    color: var(--cards-text-color);
+    cursor: pointer;
+}
+
+    .card:hover {
+        background-color: var(--cards-bg-color-hover);
+    }
+
+/*==========HEADER==========*/
+.header {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: lightgreen;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.searching-tools {
+    width: 90%;
+    display: flex;
+    flex-direction: row;
+}
+
+.search-line {
+    width: 93%;
+    margin: 0 50px;
+    height: 50%;
+    border-radius: 10px;
+    border: 0px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.search-button {
+    width: 900px;
+}
+
+.logo {
+    width: 7%;
+    margin: 20px
+}
+/*==========WORKERS-LIST==========*/
+.workers-list {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    height: 270px;
+}
+
+.scroll-x {
+    overflow-x: scroll;
+}
+
+.worker-card {
+    min-width: 140px;
+    height: 100%;
+    padding: 5px;
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+    .worker-card p {
+        margin-bottom: 6px;
+    }
+
+.worker-fullname {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.worker-email {
+    text-decoration: underline;
+}
+
+.worker-work-phone {
+    font-style: italic;
+}
+
+.bottom-line {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: auto;
+}
+
+.button-save {
+    width: 20px;
+    height: 20px;
+}
+
+/*==========EVENTS-LIST==========*/
+.events-list {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.event-card {
+    width: 300px;
+    height: 100px;
+    padding: 5px;
+    margin: 10px 0;
+}
+
+    .event-card p {
+        margin-bottom: 0;
+    }
+
+.scroll-y {
+    overflow-y: scroll;
+}
+
+/*==========NEWS-LIST==========*/
+
+.news-list {
+    width: 100%;
+    height: 490px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.news-card {
+    width: 48%;
+    height: 260px;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+}
+
+.news-card-content {
+    padding: 10px;
+}
+
+.news-image {
+    width: 100%;
+    height: 60%;
+    background-color: gray;
+    border-bottom: 2px solid black;
+}
+
+/*==========vCard-QRcode==========*/
+
+.worker-fullname {
+}
+
+.vCard-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.vCard-format {
+    font-family: monospace;
+}
+
+.qr-code {
+    width: 600px;
+    height: 600px;
+}

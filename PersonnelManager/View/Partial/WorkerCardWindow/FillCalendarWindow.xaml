@@ -1,0 +1,64 @@
+﻿<Window x:Class="PersonnelManager.View.Partial.WorkerCardWindow.FillCalendarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PersonnelManager.View.Partial.WorkerCardWindow"
+        mc:Ignorable="d"
+        Title="FillCalendarWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="100"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="ButtonTraining" Grid.Column="0" Width="200" Height="60" Click="ButtonTraining_Click">Учёба</Button>
+            <Button x:Name="ButtonAbsence" Grid.Column="1"  Width="200" Height="60" Click="ButtonAbsence_Click">Пропуск</Button>
+            <Button x:Name="ButtonVacation" Grid.Column="2" Width="200" Height="60" Click="ButtonVacation_Click">Отпуск</Button>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+
+            <StackPanel Grid.Column="0">
+                <!--Название (для обучений)-->
+                <Label Content="Название обучения" Width="150"/>
+                <TextBox Width="150" Height="30"/>
+
+                <!--Дата начала-->
+                <Label Content="Дата Начала" Width="150"/>
+                <DatePicker Width="150" Height="30"/>
+
+                <!--Дата окончания-->
+                <Label Content="Дата Окончания" Width="150"/>
+                <DatePicker Width="150" Height="30"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1">
+                <!--Тип (для обучений / для пропуска)-->
+                <Label Content="Тип" Width="150"/>
+                <ComboBox Width="150" Height="30"/>
+
+                <!--Заменяющий (Для пропуска)-->
+                <Label Content="Подменяющее лицо" Width="150"/>
+                <ComboBox Width="150" Height="30"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="2">
+            <Button x:Name="ButtonAdd" Click="ButtonAdd_Click" Content="Добавить" Height="60" Width="300"/>
+        </Grid>
+    </Grid>
+</Window>

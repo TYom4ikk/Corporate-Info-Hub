@@ -1,0 +1,19 @@
+﻿@*
+   Header
+*@
+@{
+
+}
+
+<header>
+    <nav class="header">
+       <img class="logo" src="~/img/Logo.png"/>
+        @using (Html.BeginForm("Index", "Home", FormMethod.Get)) 
+        {
+            <div class="searching-tools">
+                <input name="searchString" class="search-line" type="text" placeholder="Введите для поиска" />
+                <input class="search-button" type="submit" value="Поиск"/>
+            </div>
+        }
+    </nav>
+</header>

@@ -1,0 +1,20 @@
+﻿PersonnelManager
+
+
+winexe
+C#
+.cs
+C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\PersonnelManager\obj\Debug\net8.0-windows\
+PersonnelManager
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\PersonnelManager\App.xaml
+12-1441848010
+1-1120933843
+36-1413997956
+2281888971493
+MainWindow.xaml;Styles\WorkerCardStyle.xaml;View\MainPage.xaml;View\Partial\DataCards\DepartmentCard.xaml;View\Partial\DataCards\WorkerCard.xaml;View\Partial\Header.xaml;View\Partial\OrganizationStructure.xaml;View\Partial\WorkerCardWindow\FillCalendarWindow.xaml;View\Partial\WorkerCardWindow\WorkerCardFillCalendars.xaml;View\Partial\WorkerCardWindow\WorkerCardFillData.xaml;View\Partial\WorkerCardWindow\WorkerCardWindow.xaml;View\Partial\WorkersList.xaml;
+
+False
+

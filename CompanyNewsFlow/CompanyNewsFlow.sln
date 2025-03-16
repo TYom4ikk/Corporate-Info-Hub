@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyNewsFlow", "CompanyNewsFlow.csproj", "{45A2C681-8361-45A0-8A05-A2478C8E125F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A2C681-8361-45A0-8A05-A2478C8E125F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A2C681-8361-45A0-8A05-A2478C8E125F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A2C681-8361-45A0-8A05-A2478C8E125F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{45A2C681-8361-45A0-8A05-A2478C8E125F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A2C681-8361-45A0-8A05-A2478C8E125F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A2C681-8361-45A0-8A05-A2478C8E125F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE7FE89C-910C-447E-AD52-0B9910B6BF73}
+	EndGlobalSection
+EndGlobal
