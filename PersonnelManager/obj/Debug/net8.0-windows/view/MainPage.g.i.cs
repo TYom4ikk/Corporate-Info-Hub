@@ -53,7 +53,7 @@ namespace PersonnelManager.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/PersonnelManager;component/view/mainpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/PersonnelManager;V1.0.0.0;component/view/mainpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\MainPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

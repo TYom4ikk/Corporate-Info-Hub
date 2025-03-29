@@ -36,3 +36,4 @@ C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corp
 C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\CompanyInfoHub\obj\Debug\net8.0\CompanyInfoHub.pdb
 C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\CompanyInfoHub\obj\Debug\net8.0\CompanyInfoHub.genruntimeconfig.cache
 C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\CompanyInfoHub\obj\Debug\net8.0\ref\CompanyInfoHub.dll
+C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\CompanyInfoHub\obj\Debug\net8.0\CompanyInfoHub.sourcelink.json

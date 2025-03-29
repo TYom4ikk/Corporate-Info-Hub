@@ -11,7 +11,7 @@
             <ColumnDefinition Width="150"/>
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
-        <Image Source="/bin/Debug/images/EcoTechLogo.png"/>
+        <Image Source="/bin/Debug/images/EcoTechLogo.png" Height="90" Width="90"/>
         <TextBox Grid.Column="1" VerticalContentAlignment="Center" Height="50" Width="860" HorizontalAlignment="Left" Margin="40,0,0,0" FontSize="30"/>
     </Grid>
 </UserControl>

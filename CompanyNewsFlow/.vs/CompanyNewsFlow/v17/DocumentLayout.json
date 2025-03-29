@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyNewsFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companynewsflow\\resources\\layout\\activity_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyNewsFlow\\resources\\layout\\content_main.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|solutionrelative:resources\\layout\\content_main.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyNewsFlow\\resources\\layout\\activity_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|solutionrelative:resources\\layout\\activity_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companynewsflow\\resources\\layout\\content_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyNewsFlow\\resources\\layout\\content_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|solutionrelative:resources\\layout\\content_main.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\companynewsflow\\resources\\layout\\content_main.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
-      "RelativeMoniker": "D:0:0:{45A2C681-8361-45A0-8A05-A2478C8E125F}|CompanyNewsFlow.csproj|solutionrelative:resources\\layout\\content_main.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,36 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 215,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "content_main.xml",
               "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyNewsFlow\\Resources\\layout\\content_main.xml",
               "RelativeDocumentMoniker": "Resources\\layout\\content_main.xml",
               "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyNewsFlow\\Resources\\layout\\content_main.xml",
               "RelativeToolTip": "Resources\\layout\\content_main.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-03-16T21:42:31.106Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "activity_main.xml",
               "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyNewsFlow\\Resources\\layout\\activity_main.xml",
               "RelativeDocumentMoniker": "Resources\\layout\\activity_main.xml",
               "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyNewsFlow\\Resources\\layout\\activity_main.xml",
               "RelativeToolTip": "Resources\\layout\\activity_main.xml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-03-16T21:30:19.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T21:30:19.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "content_main.xml",
               "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\CompanyNewsFlow\\Resources\\layout\\content_main.xml",
               "RelativeDocumentMoniker": "Resources\\layout\\content_main.xml",

@@ -1,6 +1,7 @@
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\img\Diskette.png
+wwwroot\img\EcoTechLogo.png
 wwwroot\img\Logo.png
 wwwroot\img\News_Photo_Placeholder.png
 wwwroot\img\qrcode.png

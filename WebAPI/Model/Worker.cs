@@ -43,8 +43,6 @@ public partial class Worker
 
     public virtual Department Department { get; set; } = null!;
 
-    public virtual ICollection<Event> Events { get; set; } = new List<Event>();
-
     public virtual ICollection<News> News { get; set; } = new List<News>();
 
     public virtual Post Post { get; set; } = null!;

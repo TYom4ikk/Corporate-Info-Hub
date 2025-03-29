@@ -73,3 +73,4 @@ C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corp
 C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\PersonnelManager\obj\Debug\net8.0-windows\PersonnelManager.pdb
 C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\PersonnelManager\obj\Debug\net8.0-windows\PersonnelManager.genruntimeconfig.cache
 C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\PersonnelManager\obj\Debug\net8.0-windows\ref\PersonnelManager.dll
+C:\Users\zhaku\Desktop\Дипломный проект Академия TOP\Corporate-Info-Hub\PersonnelManager\obj\Debug\net8.0-windows\PersonnelManager.sourcelink.json

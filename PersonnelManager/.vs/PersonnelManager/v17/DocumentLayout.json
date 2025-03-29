@@ -1,12 +1,96 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\personnelmanager\\view\\partial\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|solutionrelative:view\\partial\\header.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\personnelmanager\\view\\partial\\header.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|solutionrelative:view\\partial\\header.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\personnelmanager\\view\\partial\\workercardwindow\\workercardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|solutionrelative:view\\partial\\workercardwindow\\workercardwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\personnelmanager\\view\\partial\\workercardwindow\\workercardfilldata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|solutionrelative:view\\partial\\workercardwindow\\workercardfilldata.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\personnelmanager\\styles\\workercardstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{875C726F-462A-45B3-9712-2AB10DAFC2F3}|PersonnelManager.csproj|solutionrelative:styles\\workercardstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkerCardWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\View\\Partial\\WorkerCardWindow\\WorkerCardWindow.xaml",
+              "RelativeDocumentMoniker": "View\\Partial\\WorkerCardWindow\\WorkerCardWindow.xaml",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\View\\Partial\\WorkerCardWindow\\WorkerCardWindow.xaml",
+              "RelativeToolTip": "View\\Partial\\WorkerCardWindow\\WorkerCardWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T06:01:36.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkerCardFillData.xaml",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\View\\Partial\\WorkerCardWindow\\WorkerCardFillData.xaml",
+              "RelativeDocumentMoniker": "View\\Partial\\WorkerCardWindow\\WorkerCardFillData.xaml",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\View\\Partial\\WorkerCardWindow\\WorkerCardFillData.xaml",
+              "RelativeToolTip": "View\\Partial\\WorkerCardWindow\\WorkerCardFillData.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T06:01:33.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\View\\Partial\\Header.xaml.cs",
+              "RelativeDocumentMoniker": "View\\Partial\\Header.xaml.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\View\\Partial\\Header.xaml.cs",
+              "RelativeToolTip": "View\\Partial\\Header.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T05:43:07.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Header.xaml",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\View\\Partial\\Header.xaml",
+              "RelativeDocumentMoniker": "View\\Partial\\Header.xaml",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\View\\Partial\\Header.xaml",
+              "RelativeToolTip": "View\\Partial\\Header.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T05:42:08.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerCardStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\Styles\\WorkerCardStyle.xaml",
+              "RelativeDocumentMoniker": "Styles\\WorkerCardStyle.xaml",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\PersonnelManager\\Styles\\WorkerCardStyle.xaml",
+              "RelativeToolTip": "Styles\\WorkerCardStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T09:42:56.427Z"
+            }
+          ]
+        },
         {
           "DockedHeight": 191,
           "SelectedChildIndex": -1,

@@ -24,7 +24,7 @@ namespace WebAPI.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Worker>>> GetWorkers()
         {
-            return await _context.Workers.ToListAsync();
+            return await _context.Workers.ToListAsync();//.Include(w=>w.Department);
         }
 
         // GET: api/Workers/5

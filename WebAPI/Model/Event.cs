@@ -21,11 +21,9 @@ public partial class Event
 
     public short? ResponsibleDepartmentId { get; set; }
 
-    public int? ResponsibleWokrerId { get; set; }
+    public int? ResponsibleWorkerId { get; set; }
 
     public virtual Department? ResponsibleDepartment { get; set; }
-
-    public virtual Worker? ResponsibleWokrer { get; set; }
 
     public virtual EventStatus Status { get; set; } = null!;
 

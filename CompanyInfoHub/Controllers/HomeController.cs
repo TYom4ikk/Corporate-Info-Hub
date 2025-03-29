@@ -98,15 +98,17 @@ namespace CompanyInfoHub.Controllers
 
             Worker worker = WorkersController.GetWorkerDetailsById(id);
             string vCardData = "BEGIN:VCARD\n" +
-                "VERSION:3.0\n" +
-                $"N:{worker.FirstName}\n" +
-                $"FN:{worker.LastName}\n" +
-                $"ORG:{worker.Department.Name}\n" +
-                $"TITLE:{worker.Post.Name}\n" +
-                $"TEL;WORK;VOICE:{worker.WorkPhoneNumber}\n" +
-                $"TEL;CELL:{worker.PersonalPhoneNumber}\n" +
-                $"EMAIL;WORK;INTERNET:{worker.CorporateEmail}" +
-                "END:VCARD";
+                              "VERSION:3.0\n" +
+                              $"N:{worker.LastName};{worker.FirstName};;;\n" +
+                              $"FN:{worker.FirstName} {worker.LastName}\n" +
+                              $"ORG:{worker.Department.Name}\n" +
+                              $"TITLE:{worker.Post.Name}\n" +
+                              $"TEL;WORK;VOICE:{worker.WorkPhoneNumber}\n" +
+                              $"TEL;CELL:{worker.PersonalPhoneNumber}\n" +
+                              $"EMAIL;WORK;INTERNET:{worker.CorporateEmail}\n" +
+                              "END:VCARD";
+
+
             GenerateQRCode(vCardData);
 
             VCardViewModel vCardViewModel = new VCardViewModel();

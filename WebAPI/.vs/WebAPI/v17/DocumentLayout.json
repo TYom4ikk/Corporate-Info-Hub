@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\webapi\\controllers\\trainingtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|solutionrelative:controllers\\trainingtypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\webapi\\controllers\\workingcalendarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|solutionrelative:controllers\\workingcalendarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\webapi\\model\\corporateinfohubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|solutionrelative:model\\corporateinfohubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\webapi\\controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|solutionrelative:controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|c:\\users\\zhaku\\desktop\\\u0434\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0430\u043A\u0430\u0434\u0435\u043C\u0438\u044F top\\corporate-info-hub\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E252D652-2DA5-46D4-8A3F-D8A7283544B5}|WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 215,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TrainingTypesController.cs",
-              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Controllers\\TrainingTypesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TrainingTypesController.cs",
-              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Controllers\\TrainingTypesController.cs",
-              "RelativeToolTip": "Controllers\\TrainingTypesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T08:03:38.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T17:48:13.036Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WorkingCalendarsController.cs",
-              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Controllers\\WorkingCalendarsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WorkingCalendarsController.cs",
-              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Controllers\\WorkingCalendarsController.cs",
-              "RelativeToolTip": "Controllers\\WorkingCalendarsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "CorporateInfoHubContext.cs",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Model\\CorporateInfoHubContext.cs",
+              "RelativeDocumentMoniker": "Model\\CorporateInfoHubContext.cs",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Model\\CorporateInfoHubContext.cs",
+              "RelativeToolTip": "Model\\CorporateInfoHubContext.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEgAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T23:17:07.433Z"
+              "WhenOpened": "2025-03-28T23:41:12.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TrainingsController.cs",
-              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Controllers\\TrainingsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TrainingsController.cs",
-              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Controllers\\TrainingsController.cs",
-              "RelativeToolTip": "Controllers\\TrainingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T23:16:36.457Z"
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\zhaku\\Desktop\\\u0414\u0438\u043F\u043B\u043E\u043C\u043D\u044B\u0439 \u043F\u0440\u043E\u0435\u043A\u0442 \u0410\u043A\u0430\u0434\u0435\u043C\u0438\u044F TOP\\Corporate-Info-Hub\\WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T23:41:27.232Z",
+              "EditorCaption": ""
             }
           ]
         },

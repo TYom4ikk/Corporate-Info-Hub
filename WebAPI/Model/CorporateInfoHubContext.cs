@@ -59,22 +59,16 @@ public partial class CorporateInfoHubContext : DbContext
 
         modelBuilder.Entity<AbsenceType>(entity =>
         {
-            entity.HasIndex(e => e.Id, "IX_AbsenceTypes").IsUnique();
-
             entity.Property(e => e.Name).HasMaxLength(100);
         });
 
         modelBuilder.Entity<Cabinet>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK_asdasdfdegfsvcxz frdbxgtcv ftrdgxbchv");
-
             entity.Property(e => e.Name).HasMaxLength(10);
         });
 
         modelBuilder.Entity<Department>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK_Departmentss");
-
             entity.Property(e => e.Name).HasMaxLength(200);
         });
 
@@ -85,11 +79,8 @@ public partial class CorporateInfoHubContext : DbContext
 
             entity.HasOne(d => d.ResponsibleDepartment).WithMany(p => p.Events)
                 .HasForeignKey(d => d.ResponsibleDepartmentId)
+                .OnDelete(DeleteBehavior.SetNull)
                 .HasConstraintName("FK_Events_Departments");
-
-            entity.HasOne(d => d.ResponsibleWokrer).WithMany(p => p.Events)
-                .HasForeignKey(d => d.ResponsibleWokrerId)
-                .HasConstraintName("FK_Events_Workers");
 
             entity.HasOne(d => d.Status).WithMany(p => p.Events)
                 .HasForeignKey(d => d.StatusId)
@@ -124,8 +115,6 @@ public partial class CorporateInfoHubContext : DbContext
 
         modelBuilder.Entity<Post>(entity =>
         {
-            entity.HasIndex(e => e.Id, "IX_Posts").IsUnique();
-
             entity.Property(e => e.Name).HasMaxLength(200);
         });
 
@@ -174,10 +163,6 @@ public partial class CorporateInfoHubContext : DbContext
         modelBuilder.Entity<WorkingCalendar>(entity =>
         {
             entity.ToTable("WorkingCalendar");
-
-            entity.Property(e => e.Id).HasComment("Идентификатор строки");
-            entity.Property(e => e.ExceptionDate).HasComment("День-исключение");
-            entity.Property(e => e.IsWorkingDay).HasComment("0 - будний день, но законодательно принят выходным");
         });
 
         OnModelCreatingPartial(modelBuilder);

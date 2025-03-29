@@ -2281,16 +2281,13 @@
             "format": "int32",
             "nullable": true
           },
-          "responsibleWokrerId": {
+          "responsibleWorkerId": {
             "type": "integer",
             "format": "int32",
             "nullable": true
           },
           "responsibleDepartment": {
             "$ref": "#/components/schemas/Department"
-          },
-          "responsibleWokrer": {
-            "$ref": "#/components/schemas/Worker"
           },
           "status": {
             "$ref": "#/components/schemas/EventStatus"
@@ -2539,13 +2536,6 @@
           },
           "department": {
             "$ref": "#/components/schemas/Department"
-          },
-          "events": {
-            "type": "array",
-            "items": {
-              "$ref": "#/components/schemas/Event"
-            },
-            "nullable": true
           },
           "news": {
             "type": "array",
